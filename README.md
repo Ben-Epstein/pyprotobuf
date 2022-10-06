@@ -1,2 +1,2 @@
 # pyprotobuf
-A dream of easy python protobuf interactions
+A dream of easy pythonic protobuf interactions
